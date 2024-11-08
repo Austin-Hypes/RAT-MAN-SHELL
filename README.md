@@ -4,7 +4,7 @@ cl /EHsc /Fe:Client.exe Client.cpp ws2_32.lib user32.lib advapi32.lib
 FUD Server and Client bypasses windows 11 av and windows 10 av as of 11/8/2024
 
 
-Authors: Austin-Hypes & UNTAGGED DOT1Q HOPPER   :~)
+Authors: Austin-Hypes & UNTAGGED DOT1Q HOPPER                                                                                                                    :)
 
 
 <img width="960" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/8eab8c00-919b-490d-ae37-3088115e6056">
