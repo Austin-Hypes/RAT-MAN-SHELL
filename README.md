@@ -9,7 +9,7 @@ FUD Server and Client bypasses windows 11 av and windows 10 av as of 11/8/2024
 
 
 
-Authors: Austin-Hypes & UNTAGGED DOT1Q HOPPER                                                                                                                    
+Authors: Austin-Hypes & Jacob Kuzala                                                                                                                    
 
 
 
